@@ -4,28 +4,27 @@
 
 About Me: 👩🏻‍💻
 
-Hi! I'm Elias Náñez, a Student B.S. in Computer, Administrative and Accounting Systems, a future Systems Analyst and Software Developer, interested in infrastructures (Linux, Cisco, Mainframe Ecosystem).
+Hi! I'm Elías Náñez, a student pursuing a B.S. in Computer, Administrative and Accounting Systems. I'm on my way to becoming a Systems Analyst and Software Developer, with a keen interest in infrastructures—from Linux and Cisco to the Mainframe Ecosystem.
 
-* 🔭 My Focus: building resilient. robust and scalable Full-Stack solutions.
-* 💡 Unique Skill: Interested in managing mission-critical systems, with knowledge of COBOL and tools such as IBM z Open Editor / Zowe Explore (relevant for Enterprise/Legacy Systems).
-* 📚 Learning Habit: Always learning something new.
-
+* 🔭 **My Focus:** Building resilient, robust and scalable Full-Stack solutions.
+* 💡 **Unique Skills:** Interested in managing mission-critical systems, with knowledge of COBOL and tools such as IBM z Open Editor / Zowe Explorer (relevant for Enterprise/Legacy Systems).
+* 📚 **Learning Habit:** Always exploring something new, from books on Goodreads to a 937-day (and counting!) Duolingo streak.
 ---
 
 ### 💡 Motivations
 
-* **Free Software:** I love open collaboration and accessible tools for the entire community.
-* **Education** I'm interested in using technology to simplify and distribute knowledge.
-* **Impact** I seek to create, share and support projects that generate social or educational impact to make Better world. 🕊
+* **Free Software:** I love open collaboration and believe in creating accessible tools for the entire community.
+* **Education:** I'm passionate about using technology to simplify and democratize knowledge.
+* **Impact:** I seek to create, share, and support projects that generate a positive social or educational impact—contributing to a Better world. 🕊
 
 ---
 
 ### 🎼 Hobbies
-In my free time, I like to read, learn new things, play videogames, play instruments, sometimes play chess.
+In my free time, I enjoy learning new things, playing video games, playing instruments, and occasional chess matches.
 
 ---
 
-## 🛠️ Languages and tools:
+## 🛠️ Languages and Tools:
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="Nextjs" height="60"/>
@@ -47,7 +46,7 @@ In my free time, I like to read, learn new things, play videogames, play instrum
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" height="60"/>
 </div>
 
-## 📚🌱 Learning:
+## 📚🌱 Currently Learning:
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linuxmint/linuxmint-original.svg" title="Linuxmint" alt="Linuxmint" height="60"/>
