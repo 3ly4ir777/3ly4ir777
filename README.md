@@ -8,7 +8,7 @@ Hi! I'm Elías Náñez, a student pursuing a B.S. in Computer, Administrative an
 
 * 🔭 **My Focus:** Building resilient, robust and scalable Full-Stack solutions.
 * 💡 **Unique Skills:** Interested in managing mission-critical systems, with knowledge of COBOL and tools such as IBM z Open Editor / Zowe Explorer (relevant for Enterprise/Legacy Systems).
-* 📚 **Learning Habit:** Always exploring something new, from books on Goodreads to a 10008-day (and counting!) Duolingo streak.
+* 📚 **Learning Habit:** Always exploring something new, from books on Goodreads to a 1008-day (and counting!) Duolingo streak.
 ---
 
 ### 💡 Motivations
@@ -24,7 +24,7 @@ In my free time, I enjoy learning new things, playing video games, playing instr
 
 ---
 
-## 🛠️ Languages:
+## 💬 Languages:
 
 <div align="center">
     <img src="https://www.oriongovernance.com/wp-content/uploads/2022/08/Cobol.png" title="COBOL" alt="COBOL" height="60"/>
@@ -41,25 +41,27 @@ In my free time, I enjoy learning new things, playing video games, playing instr
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" height="60"/>
 </div>
 
-## 🛠️ frameworks:
+## 🪟 Frameworks:
 
 <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"  height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="Nextjs" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress" height="60"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress" height="60"/>
 </div>
 
-## 🛠️ OS, runtimes, and other tools:
+## 🛠️ Runtimes, and other tools:
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-plain-wordmark.svg" title="Node.JS" alt="Node.JS" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linuxmint/linuxmint-original.svg" title="Linuxmint" alt="Linuxmint" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/woocommerce/woocommerce-plain.svg" title="Woocommerce" alt="Woocommerce" height="60"/> 
 </div>
 
-<br>
+## 🐣🐥🐧 GNU/Linux Distros:
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/woocommerce/woocommerce-plain.svg" title="Woocommerce" alt="Woocommerce" height="60"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linuxmint/linuxmint-original.svg" title="Linuxmint" alt="Linuxmint" height="60"/>
 </div>
 
 ## 📚🌱 🐣🐥🐧 Currently Learning:
@@ -90,4 +92,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+idea of style:
+## 🛠️ Languajes
+
+![COBOL](https://img.shields.io/badge/COBOL-003B5C?style=for-the-badge&logo=ibm&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 -->
