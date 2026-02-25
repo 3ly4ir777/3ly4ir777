@@ -8,7 +8,7 @@ Hi! I'm Elías Náñez, a student pursuing a B.S. in Computer, Administrative an
 
 * 🔭 **My Focus:** Building resilient, robust and scalable Full-Stack solutions.
 * 💡 **Unique Skills:** Interested in managing mission-critical systems, with knowledge of COBOL and tools such as IBM z Open Editor / Zowe Explorer (relevant for Enterprise/Legacy Systems).
-* 📚 **Learning Habit:** Always exploring something new, from books on Goodreads to a 937-day (and counting!) Duolingo streak.
+* 📚 **Learning Habit:** Always exploring something new, from books on Goodreads to a 10008-day (and counting!) Duolingo streak.
 ---
 
 ### 💡 Motivations
@@ -20,45 +20,62 @@ Hi! I'm Elías Náñez, a student pursuing a B.S. in Computer, Administrative an
 ---
 
 ### 🎼 Hobbies
-In my free time, I enjoy learning new things, playing video games, playing instruments, and occasional chess matches.
+In my free time, I enjoy learning new things, playing video games, playing instruments (piano sax clarinet), and occasional chess matches.
 
 ---
 
-## 🛠️ Languages and Tools:
+## 🛠️ Languages:
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="Nextjs" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-plain-wordmark.svg" title="Node.JS" alt="Node.JS" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cobol/cobol-original.svg" title="COBOL" alt="COBOL" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" height="60"/>
+    <img src="https://www.oriongovernance.com/wp-content/uploads/2022/08/Cobol.png" title="COBOL" alt="COBOL" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" title="Python" alt="Python" height="60"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" height="60"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress" height="60"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/woocommerce/woocommerce-plain.svg" title="Woocommerce" alt="Woocommerce" height="60"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="60"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" height="60"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg" title="PHP" alt="PHP" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="60"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" height="60"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg" title="PHP" alt="PHP" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" height="60"/>
 </div>
 
-## 📚🌱 Currently Learning:
+## 🛠️ frameworks:
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linuxmint/linuxmint-original.svg" title="Linuxmint" alt="Linuxmint" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/godot/godot-original-wordmark.svg" title="godot" alt="godot" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="Nextjs" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress" height="60"/> 
+</div>
+
+## 🛠️ OS, runtimes, and other tools:
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-plain-wordmark.svg" title="Node.JS" alt="Node.JS" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linuxmint/linuxmint-original.svg" title="Linuxmint" alt="Linuxmint" height="60"/>
+</div>
+
+<br>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/woocommerce/woocommerce-plain.svg" title="Woocommerce" alt="Woocommerce" height="60"/> 
+</div>
+
+## 📚🌱 🐣🐥🐧 Currently Learning:
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/godot/godot-original-wordmark.svg" title="godot" alt="godot" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nestjs/nestjs-original-wordmark.svg" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" height="60" />         
 </div>
 
 ---
 
-## 💙 Built with enthusiasm and open source by Ely. Thanks for visiting!
+## 💙 Built with enthusiasm and free software by Ely. Thank you for visiting! 🐣🐥🐧
 
 <!--
 **3ly4ir777/3ly4ir777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
