@@ -29,7 +29,7 @@ In my free time, I enjoy learning new things, playing video games, playing instr
 <div align="center">
     <img src="https://www.oriongovernance.com/wp-content/uploads/2022/08/Cobol.png" title="COBOL" alt="COBOL" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" title="Python" alt="Python" height="60"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" height="60"/>
+    <img src="https://img.shields.io/badge/SQL-003B5C?style=for-the-badge" alt="SQL" height="60"/>
 </div>
 
 <br>
@@ -50,9 +50,18 @@ In my free time, I enjoy learning new things, playing video games, playing instr
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress" height="60"/>
 </div>
 
-## 🛠️ Runtimes, and other tools:
+## 🗄️🗃️ Database:
 
 <div align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" height="60" /> 
+</div>
+
+
+## 🛠️📦 Runtimes, Containers and other tools:
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-plain-wordmark.svg" title="Node.JS" alt="Node.JS" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/woocommerce/woocommerce-plain.svg" title="Woocommerce" alt="Woocommerce" height="60"/> 
 </div>
@@ -67,14 +76,21 @@ In my free time, I enjoy learning new things, playing video games, playing instr
 ## 📚🌱 🐣🐥🐧 Currently Learning:
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/godot/godot-original-wordmark.svg" title="godot" alt="godot" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nestjs/nestjs-original-wordmark.svg" height="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" height="60" />         
 </div>
 
+### 💾🏢 Mainframe & Enterprise [SYS1.PROCLIB]
+
+<div align="center">
+    <img src="https://img.shields.io/badge/DB2-4479A1?style=for-the-badge" title="DB2" alt="DB2" height="70" />
+    <img src="https://img.shields.io/badge/JCL-000000?style=for-the-badge" alt="JCL" height="70" />
+    <img src="https://img.shields.io/badge/CICS-052FAD?style=for-the-badge" alt="CICS" height="70" />
+</div>
+
+> 🟢 **STATUS:** ONLINE | **REGION:** ZOS1
 ---
 
 ## 💙 Built with enthusiasm and free software by Ely. Thank you for visiting! 🐣🐥🐧
