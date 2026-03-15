@@ -90,7 +90,7 @@ In my free time, I enjoy learning new things, playing video games, playing instr
     <img src="https://img.shields.io/badge/CICS-052FAD?style=for-the-badge" alt="CICS" height="70" />
 </div>
 
-> 🟢 **STATUS:** ONLINE | **REGION:** ZOS1
+> 🟢 **STATUS:** ONLINE | **REGION:** ZOS1 | **USER:** 3ly4ir777
 ---
 
 ## 💙 Built with enthusiasm and free software by Ely. Thank you for visiting! 🐣🐥🐧
