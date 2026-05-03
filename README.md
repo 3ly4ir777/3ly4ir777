@@ -8,7 +8,7 @@ Hi! I'm Elías Náñez, a student pursuing a B.S. in Computer, Administrative an
 
 * 🔭 **My Focus:** Building resilient, robust and scalable Full-Stack solutions.
 * 💡 **Unique Skills:** Interested in managing mission-critical systems, with knowledge of COBOL and tools such as IBM z Open Editor / Zowe Explorer (relevant for Enterprise/Legacy Systems).
-* 📚 **Learning Habit:** Always exploring something new, from books on Goodreads to a 1008-day (and counting!) Duolingo streak.
+* 📚 **Learning Habit:** Always exploring something new, from books on Goodreads to a 1050-day (and counting!) Duolingo streak.
 ---
 
 ### 💡 Motivations
@@ -48,6 +48,7 @@ In my free time, I enjoy learning new things, playing video games, playing instr
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="Nextjs" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nestjs/nestjs-original-wordmark.svg" height="60"/>
 </div>
 
 ## 🗄️🗃️ Database:
@@ -79,7 +80,6 @@ In my free time, I enjoy learning new things, playing video games, playing instr
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/godot/godot-original-wordmark.svg" title="godot" alt="godot" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nestjs/nestjs-original-wordmark.svg" height="60"/>
 </div>
 
 ### 💾🏢 Mainframe & Enterprise [SYS1.PROCLIB]
@@ -91,6 +91,10 @@ In my free time, I enjoy learning new things, playing video games, playing instr
 </div>
 
 > 🟢 **STATUS:** ONLINE | **REGION:** ZOS1 | **USER:** 3ly4ir777
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3ly4ir777)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## 💙 Built with enthusiasm and free software by Ely. Thank you for visiting! 🐣🐥🐧
