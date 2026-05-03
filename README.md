@@ -91,10 +91,7 @@ In my free time, I enjoy learning new things, playing video games, playing instr
 </div>
 
 > 🟢 **STATUS:** ONLINE | **REGION:** ZOS1 | **USER:** 3ly4ir777
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3ly4ir777)](https://github.com/anuraghazra/github-readme-stats)
-
+> 
 ---
 
 ## 💙 Built with enthusiasm and free software by Ely. Thank you for visiting! 🐣🐥🐧
@@ -120,4 +117,7 @@ idea of style:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3ly4ir777)](https://github.com)
 -->
