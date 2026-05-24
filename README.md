@@ -80,7 +80,10 @@ In my free time, I enjoy learning new things, playing video games, playing instr
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/godot/godot-original-wordmark.svg" title="godot" alt="godot" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/fedora/fedora-original.svg" title="Fedora" alt="Fedora" height="60"/>
 </div>
+</div>
+
 
 ### 💾🏢 Mainframe & Enterprise [SYS1.PROCLIB]
 
