@@ -20,7 +20,7 @@ Hi! I'm Elías Náñez, a student pursuing a B.S. in Computer, Administrative an
 ---
 
 ### 🎼 Hobbies
-In my free time, I enjoy learning new things, playing video games, playing instruments (piano sax clarinet), and occasional chess matches.
+In my free time, I enjoy learning new things, playing video games, playing instruments (piano, sax, clarinet, violin), and occasional chess matches.
 
 ---
 
@@ -72,6 +72,9 @@ In my free time, I enjoy learning new things, playing video games, playing instr
 <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linuxmint/linuxmint-original.svg" title="Linuxmint" alt="Linuxmint" height="60"/>
+    <a href="https://antixlinux.com" target="_blank">
+        <img src="https://img.shields.io/badge/Antix-003B5C?style=for-the-badge" alt="antiX Linux" height="40"/>
+    </a>
 </div>
 
 ## 📚🌱 🐣🐥🐧 Currently Learning:
