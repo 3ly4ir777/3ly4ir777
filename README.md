@@ -8,7 +8,7 @@ Hi! I'm Elías Náñez, a student pursuing a B.S. in Computer, Administrative an
 
 * 🔭 **My Focus:** Building resilient, robust and scalable Full-Stack solutions.
 * 💡 **Unique Skills:** Interested in managing mission-critical systems, with knowledge of COBOL and tools such as IBM z Open Editor / Zowe Explorer (relevant for Enterprise/Legacy Systems).
-* 📚 **Learning Habit:** Always exploring something new, from books on Goodreads to a 1100-day (and counting!) Duolingo streak.
+* 📚 **Learning Habit:** Always exploring something new, from books on Goodreads to a 1145-day (and counting!) Duolingo streak.
 ---
 
 ### 💡 Motivations
@@ -62,6 +62,7 @@ In my free time, I enjoy learning new things, playing video games, playing instr
 ## 🛠️📦 Runtimes, Containers and other tools:
 
 <div align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/podman/podman-original.svg" title="Podman" alt="Podman" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-plain-wordmark.svg" title="Node.JS" alt="Node.JS" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/woocommerce/woocommerce-plain.svg" title="Woocommerce" alt="Woocommerce" height="60"/> 
@@ -71,9 +72,10 @@ In my free time, I enjoy learning new things, playing video games, playing instr
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/fedora/fedora-original.svg" title="Fedora" alt="Fedora" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linuxmint/linuxmint-original.svg" title="Linuxmint" alt="Linuxmint" height="60"/>
     <a href="https://antixlinux.com" target="_blank">
-        <img src="https://img.shields.io/badge/Antix-003B5C?style=for-the-badge" alt="antiX Linux" height="40"/>
+    <img src="https://img.shields.io/badge/Antix-003B5C?style=for-the-badge" alt="antiX Linux" height="40"/>
     </a>
 </div>
 
@@ -83,12 +85,10 @@ In my free time, I enjoy learning new things, playing video games, playing instr
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/godot/godot-original-wordmark.svg" title="godot" alt="godot" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/fedora/fedora-original.svg" title="Fedora" alt="Fedora" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/podman/podman-original.svg" title="Podman" alt="Podman" height="60"/>
 </div>
 
 
-### 💾🏢 Mainframe & Enterprise [SYS1.PROCLIB]
+### 💾🏢 Mainframe & Enterprise Currently Learning [SYS1.PROCLIB]
 
 <div align="center">
     <img src="https://img.shields.io/badge/DB2-4479A1?style=for-the-badge" title="DB2" alt="DB2" height="70" />
