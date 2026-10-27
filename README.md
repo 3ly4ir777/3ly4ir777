@@ -8,7 +8,7 @@ Hi! I'm Elías Náñez, a student pursuing a B.S. in Computer, Administrative an
 
 * 🔭 **My Focus:** Building resilient, robust and scalable Full-Stack solutions.
 * 💡 **Unique Skills:** Interested in managing mission-critical systems, with knowledge of COBOL and tools such as IBM z Open Editor / Zowe Explorer (relevant for Enterprise/Legacy Systems).
-* 📚 **Learning Habit:** Always exploring something new, from books on Goodreads to a 1145-day (and counting!) Duolingo streak.
+* 📚 **Learning Habit:** Always exploring something new, from books on Goodreads to a 1180-day (and counting!) Duolingo streak.
 ---
 
 ### 💡 Motivations
@@ -20,7 +20,7 @@ Hi! I'm Elías Náñez, a student pursuing a B.S. in Computer, Administrative an
 ---
 
 ### 🎼 Hobbies
-In my free time, I enjoy learning new things, playing video games, playing instruments (piano, sax, clarinet, violin), and occasional chess matches.
+In my free time, I enjoy learning new things, playing video games, playing instruments (piano, sax, clarinet, violin), and occasional chess matches, learning poker texas hold'em.
 
 ---
 
@@ -47,7 +47,6 @@ In my free time, I enjoy learning new things, playing video games, playing instr
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"  height="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="Nextjs" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nestjs/nestjs-original-wordmark.svg" height="60"/>
 </div>
 
@@ -65,6 +64,7 @@ In my free time, I enjoy learning new things, playing video games, playing instr
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/podman/podman-original.svg" title="Podman" alt="Podman" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-plain-wordmark.svg" title="Node.JS" alt="Node.JS" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/woocommerce/woocommerce-plain.svg" title="Woocommerce" alt="Woocommerce" height="60"/> 
 </div>
 
@@ -76,6 +76,8 @@ In my free time, I enjoy learning new things, playing video games, playing instr
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linuxmint/linuxmint-original.svg" title="Linuxmint" alt="Linuxmint" height="60"/>
     <a href="https://antixlinux.com" target="_blank">
     <img src="https://img.shields.io/badge/Antix-003B5C?style=for-the-badge" alt="antiX Linux" height="40"/>
+    </a>
+    <img src="https://img.shields.io/badge/MX-003B5C?style=for-the-badge" alt="MX Linux" height="40"/>
     </a>
 </div>
 
