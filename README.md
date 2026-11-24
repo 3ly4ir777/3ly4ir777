@@ -8,7 +8,7 @@ Hi! I'm Elías Náñez, a student pursuing a B.S. in Computer, Administrative an
 
 * 🔭 **My Focus:** Building resilient, robust and scalable Full-Stack solutions.
 * 💡 **Unique Skills:** Interested in managing mission-critical systems, with knowledge of COBOL and tools such as IBM z Open Editor / Zowe Explorer (relevant for Enterprise/Legacy Systems).
-* 📚 **Learning Habit:** Always exploring something new, from books on Goodreads to a 1180-day (and counting!) Duolingo streak.
+* 📚 **Learning Habit:** Always exploring something new, from books on Goodreads to a 1200-day (and counting!) Duolingo streak.
 ---
 
 ### 💡 Motivations
@@ -103,6 +103,8 @@ In my free time, I enjoy learning new things, playing video games, playing instr
 ---
 
 ## 💙 Built with enthusiasm and free software by Ely. Thank you for visiting! 🐣🐥🐧
+
+<!-- <a rel="me" href="https://mastodon.social/@3ly4ir777">Mastodon</a> -->
 
 <!--
 **3ly4ir777/3ly4ir777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
