@@ -104,7 +104,7 @@ In my free time, I enjoy learning new things, playing video games, playing instr
 
 ## 💙 Built with enthusiasm and free software by Ely. Thank you for visiting! 🐣🐥🐧
 
-<!-- <a rel="me" href="https://mastodon.social/@3ly4ir777">Mastodon</a> -->
+<a rel="me" href="https://mastodon.social/@3ly4ir777">Mastodon</a>
 
 <!--
 **3ly4ir777/3ly4ir777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
